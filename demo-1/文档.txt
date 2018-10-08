@@ -1,0 +1,2 @@
+已放到服务器139.199.183.133：8080/greeting
+数据库集合greetings存放文档：id；1，word:hello
